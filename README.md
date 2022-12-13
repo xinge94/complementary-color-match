@@ -4,7 +4,7 @@ A color matcher for complementary colors.
 
 ![color matcher](./images/display.jpg)
 
-## Game rule 
+## Using instruction 
 
 - There are four colors on the panel, including: basic color, main color, auxiliary color and accent color.
 - The four colors are represented by different shapes respectively.
