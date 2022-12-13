@@ -2,7 +2,7 @@
 
 A color matcher for complementary colors.
 
-![color matching game](./images/display.jpg)
+![color matcher](./images/display.jpg)
 
 ## Game rule 
 
